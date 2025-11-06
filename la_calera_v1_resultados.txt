@@ -1,0 +1,9 @@
+# MANET Results - Urban Mobility 100 veh/hour
+Simulation_time_sec: 600
+Active_flows: 318
+Average_latency_ms: 62.2267
+Average_jitter_ms: 42.5025
+Total_throughput_Kbps: 14.9282
+Packet_loss_percent: 13.8719
+Total_TX_packets: 4419
+Total_RX_packets: 3806
