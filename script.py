@@ -351,7 +351,7 @@ def generar_archivo_ns3_seguro(vehiculos_data, output_file="manet_density_100_se
 def main():
     """Función principal con manejo de errores completo"""
 
-    net_file = 'la_calera_map_v1.net.xml'
+    net_file = 'la_calera_map_v3.net.xml'
 
     print("=== GENERADOR MANET DENSIDAD 100 (VERSIÓN SEGURA) ===\n")
 
