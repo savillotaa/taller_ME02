@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+    <!-- Tipo de vehículo MANET optimizado -->
+    <vType id="manet_vehicle" accel="2.0" decel="4.0" sigma="0.3"
+          length="4.5" width="1.8" maxSpeed="13.89" speedFactor="0.9"/>
+
+    <vehicle id="vehicle_0000" type="manet_vehicle" depart="0.00">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0001" type="manet_vehicle" depart="26.68">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0002" type="manet_vehicle" depart="63.23">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0003" type="manet_vehicle" depart="95.89">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0004" type="manet_vehicle" depart="127.95">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0005" type="manet_vehicle" depart="153.68">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0006" type="manet_vehicle" depart="188.25">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0007" type="manet_vehicle" depart="220.32">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0008" type="manet_vehicle" depart="261.81">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0009" type="manet_vehicle" depart="288.11">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0010" type="manet_vehicle" depart="321.36">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0011" type="manet_vehicle" depart="351.26">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0012" type="manet_vehicle" depart="389.45">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0013" type="manet_vehicle" depart="418.64">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0014" type="manet_vehicle" depart="455.50">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0015" type="manet_vehicle" depart="496.78">
+        <route edges="-586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0016" type="manet_vehicle" depart="496.78">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0017" type="manet_vehicle" depart="542.58">
+        <route edges="-586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0018" type="manet_vehicle" depart="542.58">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0019" type="manet_vehicle" depart="577.71">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0020" type="manet_vehicle" depart="612.81">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0021" type="manet_vehicle" depart="638.24">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0022" type="manet_vehicle" depart="666.31">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0023" type="manet_vehicle" depart="694.18">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0024" type="manet_vehicle" depart="720.56">
+        <route edges="-586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0025" type="manet_vehicle" depart="720.56">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0026" type="manet_vehicle" depart="753.58">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0027" type="manet_vehicle" depart="791.34">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0028" type="manet_vehicle" depart="822.58">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0029" type="manet_vehicle" depart="850.49">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0030" type="manet_vehicle" depart="893.47">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0031" type="manet_vehicle" depart="929.46">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0032" type="manet_vehicle" depart="961.64">
+        <route edges="-586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0033" type="manet_vehicle" depart="961.64">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0034" type="manet_vehicle" depart="997.61">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0035" type="manet_vehicle" depart="1040.30">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0036" type="manet_vehicle" depart="1071.94">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0037" type="manet_vehicle" depart="1098.95">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0038" type="manet_vehicle" depart="1127.78">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0039" type="manet_vehicle" depart="1157.58">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0040" type="manet_vehicle" depart="1193.40">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0041" type="manet_vehicle" depart="1227.31">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0042" type="manet_vehicle" depart="1258.60">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0043" type="manet_vehicle" depart="1295.48">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0044" type="manet_vehicle" depart="1326.18">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0045" type="manet_vehicle" depart="1360.34">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0046" type="manet_vehicle" depart="1387.84">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0047" type="manet_vehicle" depart="1417.71">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0048" type="manet_vehicle" depart="1463.84">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0049" type="manet_vehicle" depart="1505.71">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0050" type="manet_vehicle" depart="1536.65">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0051" type="manet_vehicle" depart="1569.03">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0052" type="manet_vehicle" depart="1611.42">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0053" type="manet_vehicle" depart="1652.68">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0054" type="manet_vehicle" depart="1689.55">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0055" type="manet_vehicle" depart="1722.46">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0056" type="manet_vehicle" depart="1765.34">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0057" type="manet_vehicle" depart="1796.47">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0058" type="manet_vehicle" depart="1837.08">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0059" type="manet_vehicle" depart="1873.21">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0060" type="manet_vehicle" depart="1917.48">
+        <route edges="-586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0061" type="manet_vehicle" depart="1917.48">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0062" type="manet_vehicle" depart="1945.49">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0063" type="manet_vehicle" depart="1987.72">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0064" type="manet_vehicle" depart="2020.75">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0065" type="manet_vehicle" depart="2053.44">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0066" type="manet_vehicle" depart="2095.06">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0067" type="manet_vehicle" depart="2134.99">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0068" type="manet_vehicle" depart="2166.87">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0069" type="manet_vehicle" depart="2194.53">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0070" type="manet_vehicle" depart="2238.32">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0071" type="manet_vehicle" depart="2282.96">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0072" type="manet_vehicle" depart="2315.47">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0073" type="manet_vehicle" depart="2352.36">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0074" type="manet_vehicle" depart="2382.40">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0075" type="manet_vehicle" depart="2427.47">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0076" type="manet_vehicle" depart="2461.38">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0077" type="manet_vehicle" depart="2495.79">
+        <route edges="-586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0078" type="manet_vehicle" depart="2495.79">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0079" type="manet_vehicle" depart="2528.59">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0080" type="manet_vehicle" depart="2575.31">
+        <route edges="-586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0081" type="manet_vehicle" depart="2575.31">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0082" type="manet_vehicle" depart="2610.54">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0083" type="manet_vehicle" depart="2636.24">
+        <route edges="-586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0084" type="manet_vehicle" depart="2636.24">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0085" type="manet_vehicle" depart="2676.88">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0086" type="manet_vehicle" depart="2703.87">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0087" type="manet_vehicle" depart="2729.89">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0088" type="manet_vehicle" depart="2769.18">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0089" type="manet_vehicle" depart="2806.80">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0090" type="manet_vehicle" depart="2849.16">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0091" type="manet_vehicle" depart="2887.65">
+        <route edges="-586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0092" type="manet_vehicle" depart="2887.65">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0093" type="manet_vehicle" depart="2916.77">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0094" type="manet_vehicle" depart="2948.33">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0095" type="manet_vehicle" depart="2975.12">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0096" type="manet_vehicle" depart="3003.37">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0097" type="manet_vehicle" depart="3041.22">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0098" type="manet_vehicle" depart="3085.86">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0099" type="manet_vehicle" depart="3124.41">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0100" type="manet_vehicle" depart="3169.29">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0101" type="manet_vehicle" depart="3209.22">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0102" type="manet_vehicle" depart="3251.80">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0103" type="manet_vehicle" depart="3292.70">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0104" type="manet_vehicle" depart="3335.60">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0105" type="manet_vehicle" depart="3363.85">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0106" type="manet_vehicle" depart="3405.56">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0107" type="manet_vehicle" depart="3448.38">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0108" type="manet_vehicle" depart="3494.76">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0109" type="manet_vehicle" depart="3524.52">
+        <route edges="586395328"/>
+    </vehicle>
+    <vehicle id="vehicle_0110" type="manet_vehicle" depart="3570.52">
+        <route edges="586395328"/>
+    </vehicle>
+</routes>
